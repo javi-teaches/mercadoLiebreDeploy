@@ -1,0 +1,11 @@
+Nuevo Usuario de VPS
+user: fordeploy
+pass: deploy123
+
+Pass DB: DBdeploy2020
+
+
+Nuevo Uusario de DB
+db_deploy
+DBdeploy2020!
+SOLO PARA: mercadoLiebre
